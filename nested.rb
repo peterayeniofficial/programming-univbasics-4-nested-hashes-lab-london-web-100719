@@ -89,7 +89,7 @@ def adding_matz
      programmer_hash[:yukihiro_matsumoto][:languages] =  ["LISP", "C"]
 
 
-    puts programmer_hash[:yukihiro_matsumoto]
+    return programmer_hash[:yukihiro_matsumoto]
 end
 
 def changing_alan
